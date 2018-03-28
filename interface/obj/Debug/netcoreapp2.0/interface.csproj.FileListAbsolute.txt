@@ -1,0 +1,10 @@
+/Users/dushuyang/interface/obj/Debug/netcoreapp2.0/interface.csproj.CoreCompileInputs.cache
+/Users/dushuyang/interface/obj/Debug/netcoreapp2.0/interface.AssemblyInfoInputs.cache
+/Users/dushuyang/interface/obj/Debug/netcoreapp2.0/interface.AssemblyInfo.cs
+/Users/dushuyang/interface/bin/Debug/netcoreapp2.0/interface.deps.json
+/Users/dushuyang/interface/bin/Debug/netcoreapp2.0/interface.runtimeconfig.json
+/Users/dushuyang/interface/bin/Debug/netcoreapp2.0/interface.runtimeconfig.dev.json
+/Users/dushuyang/interface/bin/Debug/netcoreapp2.0/interface.dll
+/Users/dushuyang/interface/bin/Debug/netcoreapp2.0/interface.pdb
+/Users/dushuyang/interface/obj/Debug/netcoreapp2.0/interface.dll
+/Users/dushuyang/interface/obj/Debug/netcoreapp2.0/interface.pdb

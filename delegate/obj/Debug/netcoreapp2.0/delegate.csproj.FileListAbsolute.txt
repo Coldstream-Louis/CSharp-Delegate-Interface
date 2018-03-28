@@ -1,0 +1,10 @@
+/Users/dushuyang/delegate/obj/Debug/netcoreapp2.0/delegate.csproj.CoreCompileInputs.cache
+/Users/dushuyang/delegate/obj/Debug/netcoreapp2.0/delegate.AssemblyInfoInputs.cache
+/Users/dushuyang/delegate/obj/Debug/netcoreapp2.0/delegate.AssemblyInfo.cs
+/Users/dushuyang/delegate/bin/Debug/netcoreapp2.0/delegate.deps.json
+/Users/dushuyang/delegate/bin/Debug/netcoreapp2.0/delegate.runtimeconfig.json
+/Users/dushuyang/delegate/bin/Debug/netcoreapp2.0/delegate.runtimeconfig.dev.json
+/Users/dushuyang/delegate/bin/Debug/netcoreapp2.0/delegate.dll
+/Users/dushuyang/delegate/bin/Debug/netcoreapp2.0/delegate.pdb
+/Users/dushuyang/delegate/obj/Debug/netcoreapp2.0/delegate.dll
+/Users/dushuyang/delegate/obj/Debug/netcoreapp2.0/delegate.pdb
